@@ -1,0 +1,5 @@
+1) Go to https://data.mendeley.com/datasets/nshn8hhd6d/1
+2) In Files, go to Data and download the 'data.tar.gz' file
+3) Create a folder named 'Data' and extract the files from 'data.tar.gz' into it. 
+4) Download 'Read_Data.ipynb' from this repository, and put the file in the same folder as 'Data' (not in the \Data folder). 
+5) Run 'Read_Data.ipynb' to see how to load the data into python. 
